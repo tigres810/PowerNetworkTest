@@ -1,0 +1,2 @@
+@echo on
+gradlew build

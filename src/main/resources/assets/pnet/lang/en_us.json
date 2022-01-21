@@ -1,0 +1,13 @@
+{
+	//Blocks
+	"block.pnet.energymachinecharger_block": "Machine Cable",
+	"block.pnet.energygenerator_block": "Energy Generator",
+	
+	//Items
+	
+	//Tabs
+	"itemGroup.testTab": "PNet",
+	
+	//Containers
+	"container.pnet.energygeneratormenuname": "Generator"
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "pnet:block/energygenerator_block" },
+    "facing=south": { "model": "pnet:block/energygenerator_block", "y": 180},
+    "facing=west": { "model": "pnet:block/energygenerator_block", "y": 270},
+    "facing=east": { "model": "pnet:block/energygenerator_block", "y":  90}
+  }
+}
